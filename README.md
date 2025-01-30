@@ -67,7 +67,7 @@
 
 ~In AWS policy generator,
 ~Select policy type as S3
-~Give principal as *
+~Give principal as "*"
 ~Select action as "Get Object"
 ~Paste the ARN number
 ![Screenshot (26)](https://github.com/user-attachments/assets/221018e0-9072-48e2-895f-cdf8aec2c82c)
